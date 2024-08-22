@@ -13,7 +13,7 @@ To run the Guessing Game, you need to have Rust installed on your machine. If yo
 Once you have Rust installed, you can clone this repository and navigate to the project directory:
 
 ```
-git clone https://github.com/your-username/guessing-game.git
+git clone https://github.com/apri-me/guessing-game.git
 cd guessing-game
 ```
 
